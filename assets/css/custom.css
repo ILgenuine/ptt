@@ -1,0 +1,220 @@
+/*--------------------------
+--------   General ---------
+--------------------------*/
+
+
+/*------   Font -------*/
+
+		@font-face {
+		    font-family: 'kanitlight';
+		    src: url('../fonts/kanit/kanit-light-webfont.eot');
+		    src: url('../fonts/kanit/kanit-light-webfont.eot?#iefix') format('embedded-opentype'),
+		         url('../fonts/kanit/kanit-light-webfont.woff2') format('woff2'),
+		         url('../fonts/kanit/kanit-light-webfont.woff') format('woff'),
+		         url('../fonts/kanit/kanit-light-webfont.ttf') format('truetype');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+
+
+		@font-face {
+		    font-family: 'kanitmedium';
+		    src: url('../fonts/kanit/kanit-medium-webfont.eot');
+		    src: url('../fonts/kanit/kanit-medium-webfont.eot?#iefix') format('embedded-opentype'),
+		         url('../fonts/kanit/kanit-medium-webfont.woff2') format('woff2'),
+		         url('../fonts/kanit/kanit-medium-webfont.woff') format('woff'),
+		         url('../fonts/kanit/kanit-medium-webfont.ttf') format('truetype');
+		    font-weight: normal;
+		    font-style: normal;
+		}
+
+
+
+/*------  style -------*/
+
+			body{
+				font-family: 'kanitlight';
+				font-size: 20px;
+			}
+
+			.padding-x-0{
+				padding:0px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.text-grey{
+				color:grey;
+			}
+
+			.form-control{
+				padding:0px;
+				padding-top:5px;
+				padding-left:10px;
+				border: 2px solid #999999;
+			}
+
+			.icon-blue{
+					color:#020091;
+			}
+
+			.position-relative{
+				position:relative !important;
+			}
+
+			.mr-3{
+				margin-right:18px;
+			}
+
+			.mr-4{
+				margin-right:24px;
+			}
+
+			.dropdown-menu{
+				background-color: black;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+
+/*--------------------------
+-------  END General -------
+--------------------------*/
+
+
+
+/*--------------------------
+--------   Index ---------
+--------------------------*/
+
+	/* navbar */
+
+		.navbar{
+			z-index: 0;
+			background-color: white;
+			border-bottom: 3px solid #999999;
+			height:auto;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.navbar-brand{
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.row{
+			max-width: 100%;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.nav{
+			height:110px;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.navbar-right{
+			margin-right: 0px !important;
+			padding-right:20px;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.navbar-nav{
+			height:auto;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.nav > LI > A{
+			transition: all 2s;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.nav > LI > A:hover{
+			color:#020091;
+			background-color:transparent;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.nav > LI > A:focus{
+			background-color:transparent;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.search-form{
+			margin-top:10px;
+			border-radius: 5px;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.btn-search{
+			margin-left:5px;
+			margin-top:8px;
+			color:white;
+			background-color:#2799D2;
+			border: 1px solid #696;
+    	padding: 5px 9px 5px 9px;
+    	text-align: center;
+    	border-radius: 25px;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.btn-search :hover{
+			margin-left:5px;
+			margin-top:8px;
+			color:white;
+			background-color:#2799D2;
+			border: 1px solid #696;
+			padding: 5px 9px 5px 9px;
+			text-align: center;
+			border-radius: 25px;
+			box-shadow: #666 0px 2px 3px;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+		.nav-badge{
+			padding-right:15px !important;
+			padding-bottom:5px !important;
+			margin:0;
+		}
+
+		.badge{
+			background-color: red;
+			color:white;
+			position:absolute;
+			top:7px;
+			right:5px;
+			border-radius: 20px;
+			behavior: url(../../pie/PIE.htc);
+		}
+
+/*--------------------------
+------- END  Index ---------
+--------------------------*/
+
+
+
+
+
+
+
+
+
+@media (max-width: 1024px) {
+
+}
+
+
+@media (max-width: 768px) {
+
+}
+
+
+@media (max-width: 414px) {
+
+}
+
+
+@media (max-width: 375px) {
+
+}
+
+
+@media (max-width: 320px) {
+
+}
