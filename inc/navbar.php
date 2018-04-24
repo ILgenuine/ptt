@@ -9,15 +9,16 @@
               <ul class="nav navbar-nav pull-right mr-4">
                 <li>
                   <div class="dropdown">
-                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                        Dropdown
+                      <div class="img-profile">
+                        <img src="assets/images/avatar.png" class="img-responsive">
+                      </div>
+                      <button class="btn dropdown-toggle btn-drop-profile" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        Mana Jaidee
                       </button>
                       <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                        <li><a href="#">Action</a></li>
-                        <li><a href="#">Another action</a></li>
-                        <li><a href="#">Something else here</a></li>
-                        <li role="separator" class="divider"></li>
-                        <li><a href="#">Separated link</a></li>
+                        <li><a href="#">PROFILE</a></li>
+                        <li><a href="#">RESET PASSWORD</a></li>
+                        <li><a href="#">LOGOUT</a></li>
                       </ul>
                     </div>
                 </li>

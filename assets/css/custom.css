@@ -196,6 +196,49 @@
 			behavior: url(../../pie/PIE.htc);
 		}
 
+		.btn-drop-profile{
+			color: #333;
+			background-color: #ffffff;
+			border-color: transparent;
+			padding-left: 40px;
+		}
+
+		.btn-drop-profile:hover,.btn-drop-profile:focus{
+			color: #333;
+			background-color: #ffffff;
+			border-color: transparent;
+		}
+		.dropdown-menu{
+			padding: 0px 0;
+		}
+
+		.dropdown-menu>li>a{
+			padding: 10px 20px;
+		}
+		.dropdown-menu > LI > A:hover {
+		    color: #262626;
+		    text-decoration: none;
+		    background-color: #DCF3FE;
+		}
+		.btn-drop-profile:after {
+		    content: " ";
+		}
+
+		.img-profile{
+			position: absolute;
+			top: 3px;
+			z-index: 10;
+		}
+		.img-profile img{
+			width: 35px;
+			height: 35px;
+			border-radius: 25px;
+
+			behavior: url(../../pie/PIE.htc);
+
+		}
+
+
 		.nav-badge{
 			padding-right:15px !important;
 			padding-bottom:5px !important;
