@@ -5,14 +5,12 @@
         </div>
         <div class="col-md-10">
 
-            <div class="row pull-right">
+            <div class="row pull-right" style="overflow:inherit;">
               <ul class="nav navbar-nav pull-right mr-4">
-
                 <li>
                   <div class="dropdown">
                       <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                         Dropdown
-                        <span class="caret"></span>
                       </button>
                       <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
                         <li><a href="#">Action</a></li>
