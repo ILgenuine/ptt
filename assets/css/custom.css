@@ -42,8 +42,23 @@
 				behavior: url(../../pie/PIE.htc);
 			}
 
+			.padding-x-4{
+				padding-right:24px;
+				padding-left:24px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.margin-x-0{
+				margin:0;
+				behavior: url(../../pie/PIE.htc);
+			}
+
 			.text-grey{
 				color:grey;
+			}
+
+			.text-white{
+				color:white !important;
 			}
 
 			.form-control{
@@ -69,9 +84,24 @@
 				margin-right:24px;
 			}
 
-			.dropdown-menu{
-				background-color: black;
-				behavior: url(../../pie/PIE.htc);
+			.ml-3{
+				margin-left:18px;
+			}
+
+			.ml-4{
+				margin-left:24px;
+			}
+
+			.mt-3{
+				margin-top:18px;
+			}
+
+			.mt-4{
+				margin-top:24px;
+			}
+
+			.align-center {
+		    margin: 0 auto;
 			}
 
 
@@ -117,7 +147,6 @@
 
 		.navbar-nav{
 			height:auto;
-			behavior: url(../../pie/PIE.htc);
 		}
 
 		.nav > LI > A{
@@ -182,6 +211,24 @@
 			border-radius: 20px;
 			behavior: url(../../pie/PIE.htc);
 		}
+
+
+		/*footer*/
+
+		.footer-bottom{
+			background-color:#2E345C;
+			height:120px;
+		}
+
+		.footer-top{
+			background-color:#2799D2;
+		}
+
+		.navbar-fixed-bottom{
+			height:auto;
+		}
+
+
 
 /*--------------------------
 ------- END  Index ---------
