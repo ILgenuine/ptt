@@ -175,6 +175,33 @@
 				behavior: url(../../pie/PIE.htc);
 			}
 
+			.btn-title-plus{
+				margin-left:5px;
+				margin-top:8px;
+				color:white;
+				font-size:13px;
+				background-color:#020091;
+				border: 1px solid #020091;
+				padding: 3px 7px 3px 7px;
+				text-align: center;
+				border-radius: 5px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.btn-title-plus:hover{
+				margin-left:5px;
+				margin-top:8px;
+				color:white;
+				font-size:13px;
+				background-color:#020091;
+				border: 1px solid #020091;
+				padding: 3px 7px 3px 7px;
+				text-align: center;
+				border-radius: 5px;
+				box-shadow: #666 0px 2px 3px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
 			.title{
 				color:#020091;
 				font-size: 25px;
