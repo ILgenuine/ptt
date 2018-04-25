@@ -54,11 +54,27 @@
 			}
 
 			.text-grey{
-				color:grey;
+				color:#666666;
 			}
 
 			.text-white{
-				color:white !important;
+				color:white;
+			}
+
+			.text-blue{
+				color:#00A1E9;
+			}
+
+			.text-darkblue{
+				color:#020091;
+			}
+
+			.text-red{
+				color:#FC361D;
+			}
+
+			.text-white{
+				color:white;
 			}
 
 			.form-control{
@@ -70,6 +86,33 @@
 
 			.icon-blue{
 					color:#020091;
+			}
+
+			.btn-primary{
+				color:white;
+				background-color:#00A1E9;
+				border-radius: 4px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.btn-primary:hover{
+				color:white;
+				background-color:#2E345C;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.btn-ghost{
+				color:#2799D2;
+				border-color: #2799D2;
+				background-color:transparent;
+				border-radius: 4px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.btn-ghost:hover{
+				color:white;
+				background-color:#2799D2;
+				behavior: url(../../pie/PIE.htc);
 			}
 
 			.position-relative{
@@ -92,6 +135,10 @@
 				margin-left:24px;
 			}
 
+			.mt-2{
+				margin-top:14px;
+			}
+
 			.mt-3{
 				margin-top:18px;
 			}
@@ -100,9 +147,61 @@
 				margin-top:24px;
 			}
 
-			.align-center {
-		    margin: 0 auto;
+			.custom-container{
+				padding:20px;
+				background-color: #F6FBFF;
+				position:relative;
+				z-index: 0;
 			}
+
+			.btn-quantity{
+				margin-left:5px;
+				margin-top:8px;
+				color:white;
+				font-size:13px;
+				background-color:#2799D2;
+				border: 1px solid #696;
+				padding: 1px 5px 1px 5px;
+				text-align: center;
+				border-radius: 25px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.btn-quantity:hover{
+				color:white;
+				background-color:#2799D2;
+				border: 1px solid #696;
+				box-shadow: #666 0px 2px 3px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.title{
+				color:#020091;
+				font-size: 25px;
+			}
+
+			.custom-option{
+				border-color:lightgrey;
+				width:100%;
+			}
+
+			 .custom-option:after{
+				content:"▼" !important;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.form-control-feedback{
+				margin-top:10px;
+				color:#666666;
+				border-color: #666666;
+			}
+
+			select{
+			  -moz-appearance: none!important;
+			   -webkit-appearance: none!important;
+			   appearance: none!important;
+			}
+
 
 
 /*--------------------------
@@ -165,11 +264,25 @@
 			behavior: url(../../pie/PIE.htc);
 		}
 
+		.search-box{
+			position:absolute;
+			top:0;
+			right:0;
+			line-height:34px;
+			width:34px;
+			height:34px;
+			color:transparent;
+			background:transparent;
+			border:transparent;
+		}
+
 		.search-form{
+			text-align: center;
 			margin-top:10px;
 			border-radius: 5px;
 			behavior: url(../../pie/PIE.htc);
 		}
+
 
 		.btn-search{
 			margin-left:5px;
@@ -195,6 +308,49 @@
 			box-shadow: #666 0px 2px 3px;
 			behavior: url(../../pie/PIE.htc);
 		}
+
+		.btn-drop-profile{
+			color: #333;
+			background-color: #ffffff;
+			border-color: transparent;
+			padding-left: 40px;
+		}
+
+		.btn-drop-profile:hover,.btn-drop-profile:focus{
+			color: #333;
+			background-color: #ffffff;
+			border-color: transparent;
+		}
+		.dropdown-menu{
+			padding: 0px 0;
+		}
+
+		.dropdown-menu>li>a{
+			padding: 10px 20px;
+		}
+		.dropdown-menu > LI > A:hover {
+		    color: #262626;
+		    text-decoration: none;
+		    background-color: #DCF3FE;
+		}
+		.btn-drop-profile:after {
+		    content: " ";
+		}
+
+		.img-profile{
+			position: absolute;
+			top: 3px;
+			z-index: 10;
+		}
+		.img-profile img{
+			width: 35px;
+			height: 35px;
+			border-radius: 25px;
+
+			behavior: url(../../pie/PIE.htc);
+
+		}
+
 
 		.nav-badge{
 			padding-right:15px !important;
@@ -232,7 +388,19 @@
 			border-color: #cccccc;
 		}
 
+		.footer-text-box{
+			width:280px;
+		}
 
+		.footer-text {
+			font-size: 18px;
+			margin-bottom:3px;
+		}
+
+		.footer-sp{
+			height:60px;
+			width:60px;
+		}
 
 /*--------------------------
 ------- END  Index ---------
