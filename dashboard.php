@@ -9,79 +9,27 @@
     <?php include_once('inc/navbar.php'); ?>
 
 
-    <div class="container custom-container">
+    <div class="div header-div">
+        <div class="row" style="margin:0;">
+          <div class="col-12">
+            <div class="header-img-frame">
+              <img src="assets/images/bg/header-bg.jpg" class="img-responsive" style="width:100%;height:450px;" />
+                <div class="redtext">
+                      <h1 class="redtext-title text-center pagination-centered">SP PTTGC</h1>
+                </div>
 
-        <a href="#"><font class="text-grey">ใบสั่งซื้อ ></a></font> <font class="text-darkblue">TEST TEXT</font>
+                <div class="redtext-2 redtext-underline">
+                </div>
 
-        <br>
-        <br>
+                <div class="whitetext">
+                  <div class="section-content">
+                    <h3 class="redtext-title text-center pagination-centered">PARTNERSHIP OF CONSUMABLE CONTRACT</h3>
+                  </div>
+                </div>
 
-        <font class="title">ใบสั่งซื้อ</font>
-
-        <br>
-        <br>
-
-        <select class="custom-option">
-          <option>test1</option>
-          <option>test2</option>
-          <option>test3</option>
-          <option>test4</option>
-        </select>
-
-        <br>
-        <br>
-
-
-        <div class="col-sm-12 padding-x-0">
-             <input placeholder="ค้นหา" type="text" class="form-control search-form">
-              <button class="search-box">
-               <span class="glyphicon glyphicon-search form-control-feedback" style="z-index:48;"></span>
-              </button>
-
-         </div>
-
-        <br>
-        <br>
-
-
-
-        <button  type="submit" class="btn btn-default btn-primary">
-          btn-primary
-        </button>
-
-        <button  type="submit" class="btn btn-default btn-ghost">
-          btn-ghost
-        </button>
-
-        <button  type="submit" class="btn btn-default btn-quantity">
-              <i class="glyphicon glyphicon-plus" aria-hidden="true"></i>
-        </button>
-
-        <button  type="submit" class="btn btn-default btn-quantity">
-              <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
-        </button>
-
-
-        <button  type="submit" class="btn btn-default">
-          <span class="flaticon-plus-symbol-in-a-rounded-black-square"></span>
-        </button>
-
-
-
-        <br>
-        <br>
-
-        <font class="text-blue">test text</font>
-        /
-        <font class="text-darkblue">test text</font>
-        /
-        <font class="text-grey">test text</font>
-        /
-        <font class="text-red">test text</font>
-
-        <br>
-        <br>
-
+            </div>
+          </div>
+        </div>
     </div>
 
 

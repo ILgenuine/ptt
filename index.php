@@ -35,14 +35,13 @@
         <div class="col-sm-12 padding-x-0">
              <input placeholder="ค้นหา" type="text" class="form-control search-form">
               <button class="search-box">
-               <span class="glyphicon glyphicon-search form-control-feedback" style="z-index:48;"></span>
+               <span class="glyphicon glyphicon-search form-control-feedback" ></span>
               </button>
 
          </div>
 
         <br>
         <br>
-
 
 
         <button  type="submit" class="btn btn-default btn-primary">
@@ -81,6 +80,25 @@
 
         <br>
         <br>
+
+
+        <div style="overflow:hidden;">
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div id="datetimepicker12"></div>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                $(function () {
+                    $('#datetimepicker12').datetimepicker({
+                        inline: true,
+                        sideBySide: true
+                    });
+                });
+            </script>
+        </div>
 
     </div>
 
