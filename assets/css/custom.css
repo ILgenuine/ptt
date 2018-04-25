@@ -88,6 +88,10 @@
 					color:#020091;
 			}
 
+			.icon-blue:hover{
+				color:#2799D2;
+			}
+
 			.btn-primary{
 				color:white;
 				background-color:#00A1E9;
@@ -112,6 +116,54 @@
 			.btn-ghost:hover{
 				color:white;
 				background-color:#2799D2;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.btn-quantity{
+				margin-left:5px;
+				margin-top:8px;
+				color:white;
+				font-size:13px;
+				background-color:#2799D2;
+				border: 1px solid #696;
+				padding: 1px 5px 1px 5px;
+				text-align: center;
+				border-radius: 25px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.btn-quantity:hover{
+				color:white;
+				background-color:#2799D2;
+				border: 1px solid #696;
+				box-shadow: #666 0px 2px 3px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.btn-title-plus{
+				margin-left:5px;
+				margin-top:8px;
+				color:white;
+				font-size:13px;
+				background-color:#020091;
+				border: 1px solid #020091;
+				padding: 5px 9px 5px 9px;
+				text-align: center;
+				border-radius: 5px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.btn-title-plus:hover{
+				margin-left:5px;
+				margin-top:8px;
+				color:white;
+				font-size:13px;
+				background-color:#020091;
+				border: 1px solid #020091;
+				padding: 5px 9px 5px 9px;
+				text-align: center;
+				border-radius: 5px;
+				box-shadow: #666 0px 2px 3px;
 				behavior: url(../../pie/PIE.htc);
 			}
 
@@ -152,54 +204,6 @@
 				background-color: #F6FBFF;
 				position:relative;
 				z-index: 0;
-			}
-
-			.btn-quantity{
-				margin-left:5px;
-				margin-top:8px;
-				color:white;
-				font-size:13px;
-				background-color:#2799D2;
-				border: 1px solid #696;
-				padding: 1px 5px 1px 5px;
-				text-align: center;
-				border-radius: 25px;
-				behavior: url(../../pie/PIE.htc);
-			}
-
-			.btn-quantity:hover{
-				color:white;
-				background-color:#2799D2;
-				border: 1px solid #696;
-				box-shadow: #666 0px 2px 3px;
-				behavior: url(../../pie/PIE.htc);
-			}
-
-			.btn-title-plus{
-				margin-left:5px;
-				margin-top:8px;
-				color:white;
-				font-size:13px;
-				background-color:#020091;
-				border: 1px solid #020091;
-				padding: 3px 7px 3px 7px;
-				text-align: center;
-				border-radius: 5px;
-				behavior: url(../../pie/PIE.htc);
-			}
-
-			.btn-title-plus:hover{
-				margin-left:5px;
-				margin-top:8px;
-				color:white;
-				font-size:13px;
-				background-color:#020091;
-				border: 1px solid #020091;
-				padding: 3px 7px 3px 7px;
-				text-align: center;
-				border-radius: 5px;
-				box-shadow: #666 0px 2px 3px;
-				behavior: url(../../pie/PIE.htc);
 			}
 
 			.title{
@@ -369,15 +373,13 @@
 			top: 3px;
 			z-index: 10;
 		}
+
 		.img-profile img{
 			width: 35px;
 			height: 35px;
 			border-radius: 25px;
-
 			behavior: url(../../pie/PIE.htc);
-
 		}
-
 
 		.nav-badge{
 			padding-right:15px !important;
