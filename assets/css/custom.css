@@ -169,6 +169,34 @@
 				behavior: url(../../pie/PIE.htc);
 			}
 
+			.btn-title-plus{
+				margin-left:5px;
+				margin-top:8px;
+				color:white;
+				font-size:13px;
+				background-color:#020091;
+				border: 1px solid #020091;
+				padding: 3px 7px 3px 7px;
+				text-align: center;
+				border-radius: 5px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+			.btn-title-plus:hover{
+				margin-left:5px;
+				margin-top:8px;
+				color:white;
+				font-size:13px;
+				background-color:#020091;
+				border: 1px solid #020091;
+				padding: 3px 7px 3px 7px;
+				text-align: center;
+				border-radius: 5px;
+				box-shadow: #666 0px 2px 3px;
+				behavior: url(../../pie/PIE.htc);
+			}
+
+
 			.title{
 				color:#020091;
 				font-size: 25px;
@@ -456,6 +484,7 @@
 --------------------------*/
 
 	.header-div{
+		z-index: 0;
 		margin-left: 2.5%;
 		margin-right: 2.5%;
 		width:95%;
@@ -465,10 +494,12 @@
 	}
 
 	.header-img-frame{
+		height: 400px;
+		width: 100%;
 		position:relative;
 		display: flex;
-	 justify-content: center;
-	 align-items: center;
+ 	  justify-content: center;
+    align-items: center;
 	}
 
 	.redtext{
@@ -512,6 +543,29 @@
 		padding-left: 15px;
 		padding-right: 15px;
 		color:white;
+	}
+
+	.header-img-bottom{
+		padding-left: 45px;
+		padding-right: 45px;
+		padding-top:5px;
+		padding-bottom:5px;
+		background-color:#2E345C;
+	}
+
+	.sum{
+		color:white;
+		padding-left: 15px;
+	}
+
+	.notification{
+		margin-top:3px;
+	}
+
+	.c-flex{
+		width:100%;
+		background-color: #00A1E9;
+		border: 2px solid red;
 	}
 
 /*--------------------------
@@ -612,6 +666,7 @@
 		.contact-position-right {
 			text-align: right;
 		}
+
 /*------------------------
 ------- END CONTACT ------
 -------------------------*/
