@@ -188,7 +188,18 @@
 			 .custom-option:after{
 				content:"▼" !important;
 				behavior: url(../../pie/PIE.htc);
+			}
 
+			.form-control-feedback{
+				margin-top:10px;
+				color:#666666;
+				border-color: #666666;
+			}
+
+			select{
+			  -moz-appearance: none!important;
+			   -webkit-appearance: none!important;
+			   appearance: none!important;
 			}
 			table{
 				background-color: #ffffff;
@@ -262,11 +273,25 @@
 			behavior: url(../../pie/PIE.htc);
 		}
 
+		.search-box{
+			position:absolute;
+			top:0;
+			right:0;
+			line-height:34px;
+			width:34px;
+			height:34px;
+			color:transparent;
+			background:transparent;
+			border:transparent;
+		}
+
 		.search-form{
+			text-align: center;
 			margin-top:10px;
 			border-radius: 5px;
 			behavior: url(../../pie/PIE.htc);
 		}
+
 
 		.btn-search{
 			margin-left:5px;
