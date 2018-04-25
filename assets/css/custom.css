@@ -568,8 +568,49 @@
 	.c-flex{
 		width:100%;
 		background-color: #00A1E9;
-		border: 2px solid red;
+
 	}
+
+	.colwith-5{
+		width:20%;
+		float:left;
+		position:relative;
+		min-height:1px;
+		padding-left: 15px;
+		padding-left: 15px;
+		text-align:center;
+	}
+
+	.btn-number{
+		position:relative;
+		color:white;
+		padding: 20px 35px 20px 35px;
+		text-align: center;
+		border-radius: 100px;
+		behavior: url(../../pie/PIE.htc);
+	}
+
+	.btn-number:hover{
+		color:white;
+		cursor:pointer;
+	}
+
+	.notification-number-onedigit{
+		position:absolute;
+		top:12px;
+		left:40%;
+		font-size: 30px;
+		margin:0;
+	}
+
+	.notification-number-twodigit{
+		position:absolute;
+		top:12px;
+		left:30%;
+		font-size: 30px;
+		margin:0;
+	}
+
 
 /*--------------------------
 ------- END  Dashboard -----

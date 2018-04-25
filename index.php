@@ -61,10 +61,9 @@
             </button>
 
 
-            <button  type="submit" class="btn btn-default">
-              <span class="flaticon-plus-symbol-in-a-rounded-black-square"></span>
+            <button type="submit" class="btn btn-title-plus padding-x-0">
+              <i class="glyphicon glyphicon-plus" aria-hidden="true"></i>
             </button>
-
 
 
             <br>

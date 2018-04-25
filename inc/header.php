@@ -1,7 +1,7 @@
     <title>ptt</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="NockDown,บ้านสำหรับผู้สูงอายุ">
     <meta name="description" content="จำหน่ายบ้านน็อกดาวห์สำหรับผู้สูงอายถ">
