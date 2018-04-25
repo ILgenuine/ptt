@@ -190,6 +190,15 @@
 				behavior: url(../../pie/PIE.htc);
 
 			}
+			table{
+				background-color: #ffffff;
+				border:#ccc 1px solid;
+			}
+
+			.table th{
+				background-color: #2799D2;
+				color: #ffffff;
+			}
 
 
 
