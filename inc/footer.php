@@ -1,5 +1,5 @@
 <!--   FOOTER -->
-<nav class="nav navbar navbar-fixed-bottom padding-x-0">
+<nav class="nav navbar padding-x-0">
 
       <div class="row padding-x-0 margin-x-0 footer-top">
 
