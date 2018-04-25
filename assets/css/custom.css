@@ -227,6 +227,10 @@
 		.navbar-fixed-bottom{
 			height:auto;
 		}
+		.contact-formborser {
+			border: 1px solid;
+			border-color: #cccccc;
+		}
 
 
 
