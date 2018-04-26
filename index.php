@@ -32,17 +32,16 @@
         <br>
 
 
-          <div class="col-sm-12 padding-x-0">
-               <input placeholder="ค้นหา" type="text" class="form-control search-form">
-                <button class="search-box">
-                 <span class="glyphicon glyphicon-search form-control-feedback" style="z-index:48;"></span>
-                </button>
+        <div class="col-sm-12 padding-x-0">
+             <input placeholder="ค้นหา" type="text" class="form-control search-form">
+              <button class="search-box">
+               <span class="glyphicon glyphicon-search form-control-feedback" ></span>
+              </button>
 
            </div>
 
           <br>
           <br>
-
 
 
             <button  type="submit" class="btn btn-default btn-primary">
@@ -62,10 +61,9 @@
             </button>
 
 
-            <button  type="submit" class="btn btn-default">
-              <span class="flaticon-plus-symbol-in-a-rounded-black-square"></span>
+            <button type="submit" class="btn btn-title-plus padding-x-0">
+              <i class="glyphicon glyphicon-plus" aria-hidden="true"></i>
             </button>
-
 
 
             <br>

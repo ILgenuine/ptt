@@ -8,84 +8,94 @@
 
     <?php include_once('inc/navbar.php'); ?>
 
+    <div class="div header-div">
+        <div class="row" style="margin:0;">
+          <div class="col-12">
 
-    <div class="container custom-container">
+            <div class="header-img-frame" style="height:400px;">
+              <div style="background: url(assets/images/bg/header-bg.jpg) fixed;z-index:-1;position:absolute;top:0;height:400px;width:100%;">
+              </div>
+                <!-- <img src="assets/images/bg/header-bg.jpg" class="img-responsive" style="width:100%;height:450px;z-index:-1;"/> -->
 
-        <a href="#"><font class="text-grey">ใบสั่งซื้อ ></a></font> <font class="text-darkblue">TEST TEXT</font>
+                <div class="redtext">
+                      <h1 class="redtext-title text-center pagination-centered">SP PTTGC</h1>
+                </div>
 
-        <br>
-        <br>
+                <div class="redtext-2 redtext-underline">
+                </div>
 
-        <font class="title">ใบสั่งซื้อ</font>
+                <div class="whitetext">
+                  <div class="section-content">
+                    <h3 class="redtext-title text-center pagination-centered">PARTNERSHIP OF CONSUMABLE CONTRACT</h3>
+                  </div>
+                </div>
+            </div>
+          </div>
+          <div class="col-12">
+            <div class="header-img-bottom">
+                <span class="glyphicon glyphicon-th-large text-white"></span><a href="#"><font class="sum">SUMMARY REQUEST STATUS</font></a>
+                <a class="pull-right mr-4" href="#"><span class="flaticon-download-button text-white"></span></a>
+                <a class="pull-right mr-4" href="#"><span class="flaticon-printing-tool text-white"></span></a>
+                <a class="pull-right mr-4" href="#"><span class="flaticon-letter text-white"></span></a>
 
-        <br>
-        <br>
-
-        <select class="custom-option">
-          <option>test1</option>
-          <option>test2</option>
-          <option>test3</option>
-          <option>test4</option>
-        </select>
-
-        <br>
-        <br>
-
-
-        <div class="col-sm-12 padding-x-0">
-             <input placeholder="ค้นหา" type="text" class="form-control search-form">
-              <button class="search-box">
-               <span class="glyphicon glyphicon-search form-control-feedback" style="z-index:48;"></span>
-              </button>
-
-         </div>
-
-        <br>
-        <br>
-
-
-
-        <button  type="submit" class="btn btn-default btn-primary">
-          btn-primary
-        </button>
-
-        <button  type="submit" class="btn btn-default btn-ghost">
-          btn-ghost
-        </button>
-
-        <button  type="submit" class="btn btn-default btn-quantity">
-              <i class="glyphicon glyphicon-plus" aria-hidden="true"></i>
-        </button>
-
-        <button  type="submit" class="btn btn-default btn-quantity">
-              <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
-        </button>
-
-
-        <button  type="submit" class="btn btn-default">
-          <span class="flaticon-plus-symbol-in-a-rounded-black-square"></span>
-        </button>
-
-
-
-        <br>
-        <br>
-
-        <font class="text-blue">test text</font>
-        /
-        <font class="text-darkblue">test text</font>
-        /
-        <font class="text-grey">test text</font>
-        /
-        <font class="text-red">test text</font>
-
-        <br>
-        <br>
-
+            </div>
+          </div>
+          <div class="col-12 notification">
+              <div class="row c-flex" style="margin:0;position:relative;z-index:0;height:120px;">
+                <div class="colwith-5">
+                  <div>
+                    <font class="text-white">NEW REQUEST</font>
+                  </div>
+                  <div style="margin-top:25px;">
+                    <a  class="btn-number" style="background-color:green;">
+                          <label class="notification-number-twodigit">18</label>
+                    </a>
+                  </div>
+                </div>
+                <div class="colwith-5">
+                  <div>
+                    <font class="text-white">CANCEL</font>
+                  </div>
+                  <div style="margin-top:25px;">
+                    <a  class="btn-number" style="background-color:red;">
+                          <label class="notification-number-onedigit">2</label>
+                    </a>
+                  </div>
+                </div>
+                <div class="colwith-5">
+                  <div>
+                    <font class="text-white">ORDER ON PROCESS</font>
+                  </div>
+                  <div style="margin-top:25px;">
+                    <a  class="btn-number" style="background-color:orange;">
+                          <label class="notification-number-onedigit">9</label>
+                    </a>
+                  </div>
+                </div>
+                <div class="colwith-5">
+                  <div>
+                    <font class="text-white">ACCEPT & WAITING FOR PR</font>
+                  </div>
+                  <div style="margin-top:25px;">
+                    <a  class="btn-number" style="background-color:lightgrey;">
+                          <label class="notification-number-onedigit">1</label>
+                    </a>
+                  </div>
+                </div>
+                <div class="colwith-5">
+                  <div>
+                    <font class="text-white">COMPLETE JOB</font>
+                  </div>
+                  <div style="margin-top:25px;">
+                    <a  class="btn-number" style="background-color:blue;">
+                          <label class="notification-number-onedigit">1</label>
+                    </a>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
     </div>
-
-
-
 
 
     <?php include_once('inc/footer.php'); ?>
