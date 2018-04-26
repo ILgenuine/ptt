@@ -126,8 +126,11 @@
              </div>
            </div>
         </div>
-        <div class="col-sm-3">
-            
+        <div class="col-sm-3 ">
+          <div class="text-center">
+            <img src="assets/images/dashboardicon/bell.png" class="img-responsive" style="width:200px;height:200px;margin: 0 auto;margin-top:40px;margin-bottom:20px;" />
+            <a href="#"><font>calendar</font></a>
+          </div>
         </div>
       </div>
     </div>
