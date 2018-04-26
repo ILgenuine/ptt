@@ -31,35 +31,39 @@
 
 
     <div class="container">
-      <div class="login-container-card login-form text-center">
+      <div class="login-container-card login-form">
 
-          <font class="title">WELCOME</font>
+          <div class="text-center"><font class="title">RESET PASSWORD</font></div>
 
-          <div class="col-sm-12 padding-x-0 mt-4">
-              <div class="input-group">
-                <span class="input-group-addon" id="basic-addon1"><i class="flaticon-user-1" aria-hidden="true"></i></span>
-                <input type="text" class="form-control" placeholder="User" aria-describedby="basic-addon1">
+          <div class="col-sm-12">
+              <div class="input-group width100">
+                <label class="text-grey reset-label-set">รหัสผ่านเก่า</label>
+                <input type="Password" class="form-control" placeholder="รหัสผ่านเก่า" aria-describedby="basic-addon1">
               </div>
+          </div>
 
-              <div class="input-group">
-                <span class="input-group-addon" id="basic-addon1"><i class="flaticon-keys" aria-hidden="true"></i></span>
-                <input type="text" class="form-control" placeholder="Recipient's username" aria-describedby="basic-addon2">
+          <div class="col-sm-12">
+              <div class="input-group width100">
+                <label  class="text-grey reset-label-set">รหัสผ่านใหม่</label>
+                <input type="Password" class="form-control" placeholder="รหัสผ่านใหม่" aria-describedby="basic-addon2">
               </div>
-           </div>
+          </div>
 
+
+          <div class="col-sm-12">
+              <div class="input-group width100">
+                <label  class="text-grey reset-label-set">ยืนยันรหัสผ่านใหม่</label>
+                <input type="Password" class="form-control" placeholder="ยืนยันรหัสผ่านใหม่" aria-describedby="basic-addon3">
+              </div>
+          </div>
            
-           <div class="col-sm-12 padding-x-0">
-             <div class="input-group" style="margin-top: -15px;">
-                <a href="#">
-                  <label class="text-grey login-label-forget">Forget Password</label>
-                </a> 
-             </div>
-           </div>
+
+          
            <!-- ============= SUBMIT LOGIN ======================== -->
             <div class="col-sm-12 padding-x-0">
               <div class="input-group login-position-bnt">
                 <button  type="submit" class="btn btn-default btn-primary login-bntsize-300px">
-                LOGIN
+                ยืนยัน
               </button>
             </div>
           </div>
@@ -67,7 +71,7 @@
 
         
 
-  </div>
+       </div>
     </div>
 
 
