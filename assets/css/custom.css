@@ -786,10 +786,14 @@
 			cursor: pointer;
 		}
 		.inbox-pagination {
+			margin-left:1px;
+			margin-right:1px;
 			background-color: #fff;
 			color:#00A1E9;
-			border-radius: 2px;
+			border-radius: 4px;
 			height: 40px;
+			behavior: url(../../pie/PIE.htc);
+
 		}
 		.pagination-left-set {
 			margin-right: 5px!important;
@@ -825,6 +829,8 @@
 -------------------------*/
 
 	.side-dropdown{
+		height:350px;
+		overflow-y: scroll;
 		top:-3px;
 		left:100%;
 	}
@@ -915,6 +921,51 @@
 /*------------------------
 ------- END PRODUCT ------
 -------------------------*/
+
+
+
+
+/*------------------------
+------- PRODUCT DETAIL ------
+-------------------------*/
+
+	.product-pic{
+		background-color: white;
+		height:500px;
+		border: 2px solid #ddd;
+		border-radius: 20px;
+		padding:30px 60px 30px 60px;
+		behavior: url(../../pie/PIE.htc);
+	}
+
+	.product-sum{
+		height:500px;
+	}
+
+	.productdetail-price{
+		font-size: 30px;
+	}
+
+	.productdetail-detail{
+		height:120px;
+		overflow: hidden;
+	}
+
+	.quality-input{
+		width:40px;
+		border-radius: 4px;
+		behavior: url(../../pie/PIE.htc);
+	}
+
+	.enlarge{
+		padding:30px 60px 30px 60px; 
+	}
+
+/*------------------------
+--- END PRODUCT  DETAIL --
+-------------------------*/
+
+
 @media (max-width: 1024px) {
 
 }
