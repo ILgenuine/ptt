@@ -92,9 +92,9 @@
 
 
           <div class="col-md-12">
-            <div class="contact-position-right">
-              <button type="button" class="contact-btn-ok">ตกลง</button>
-              <button type="button" class="contact-btn-cancel">ยกเลิก</button>
+            <div class="contact-position-right contact-fromgroup">
+              <button type="button" class="btn-primary contact-btn-size">ตกลง</button>
+              <button type="button" class="btn btn-default btn-ghost contact-btn-size" style="margin-top: -10px;">ยกเลิก</button>
             </div>
           </div>
 

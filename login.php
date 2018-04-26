@@ -14,13 +14,12 @@
     </div>
 
 
-    <div class="container ">
-      <div class="login-container-card login-form">
+    <div class="container">
+      <div class="login-container-card login-form text-center">
 
-        <font class="title text-center">WELCOME</font>
+          <font class="title">WELCOME</font>
 
-
-        <div class="col-sm-12 padding-x-0">
+        <div class="col-sm-12 padding-x-0 mt-4">
             <div class="input-group">
               <span class="input-group-addon" id="basic-addon1"><i class="flaticon-user-1" aria-hidden="true"></i></span>
               <input type="text" class="form-control" placeholder="Username" aria-describedby="basic-addon1">
@@ -32,16 +31,16 @@
             </div>
          </div>
          <div class="col-sm-12 padding-x-0">
-           <div class="input-group">
+           <div class="input-group" style="margin-top: -15px;">
               <a href="#">
-                <label>Forget Password</label>
-              </a>
+                <label class="text-grey login-label-forget">Forget Password</label>
+              </a> 
            </div>
          </div>
 
           <div class="col-sm-12 padding-x-0">
-            <div class="input-group">
-              <button  type="submit" class="btn btn-default btn-primary">
+            <div class="input-group login-position-bnt">
+              <button  type="submit" class="btn btn-default btn-primary" style="width: 300px;">
               LOGIN
             </button>
           </div>
