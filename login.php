@@ -38,12 +38,12 @@
           <div class="col-sm-12 padding-x-0 mt-4">
               <div class="input-group">
                 <span class="input-group-addon" id="basic-addon1"><i class="flaticon-user-1" aria-hidden="true"></i></span>
-                <input type="text" class="form-control" placeholder="User" aria-describedby="basic-addon1">
+                <input type="text" class="form-control login-form-border-set" placeholder="User" aria-describedby="basic-addon1">
               </div>
 
               <div class="input-group">
                 <span class="input-group-addon" id="basic-addon1"><i class="flaticon-keys" aria-hidden="true"></i></span>
-                <input type="text" class="form-control" placeholder="Recipient's username" aria-describedby="basic-addon2">
+                <input type="password" class="form-control login-form-border-set" placeholder="Password" aria-describedby="basic-addon2">
               </div>
            </div>
 
@@ -51,7 +51,7 @@
            <div class="col-sm-12 padding-x-0">
              <div class="input-group" style="margin-top: -15px;">
                 <a href="#">
-                  <label class="text-grey login-label-forget">Forget Password</label>
+                  <label class="text-grey login-label-forget" style="cursor: pointer;">Forget Password</label>
                 </a> 
              </div>
            </div>
