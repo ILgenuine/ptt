@@ -15,7 +15,6 @@
             <div class="header-img-frame" style="height:400px;">
               <div style="background: url(assets/images/bg/header-bg.jpg) fixed;z-index:-1;position:absolute;top:0;height:400px;width:100%;">
               </div>
-                <!-- <img src="assets/images/bg/header-bg.jpg" class="img-responsive" style="width:100%;height:450px;z-index:-1;"/> -->
 
                 <div class="redtext">
                       <h1 class="redtext-title text-center pagination-centered">SP PTTGC</h1>
@@ -87,7 +86,7 @@
                     <font class="text-white">COMPLETE JOB</font>
                   </div>
                   <div style="margin-top:25px;">
-                    <a  class="btn-number" style="background-color:blue;">
+                    <a  class="btn-number" style="background-color:#2e7ac5;">
                           <label class="notification-number-onedigit">1</label>
                     </a>
                   </div>
@@ -95,6 +94,42 @@
               </div>
           </div>
         </div>
+    </div>
+
+    <div class="container dashboard-container">
+      <div class="row padding-x-0">
+        <div class="col-sm-9">
+           <div class="row">
+             <div class="text-center dashboard-icon">
+               <img src="assets/images/dashboardicon/bell.png" class="img-responsive" style="width:200px;height:200px;margin: 0 auto;margin-top:40px;margin-bottom:20px;" />
+               <a href="#"><font>CANCEL REQUEST</font></a>
+             </div>
+             <div class="text-center dashboard-icon">
+               <img src="assets/images/dashboardicon/growth.png" class="img-responsive" style="width:200px;height:200px;margin: 0 auto;margin-top:40px;margin-bottom:20px;" />
+               <a href="#"><font>MONTHY REPORT</font></a>
+             </div>
+             <div class="text-center dashboard-icon">
+               <img src="assets/images/dashboardicon/report.png" class="img-responsive" style="width:200px;height:200px;margin: 0 auto;margin-top:40px;margin-bottom:20px;" />
+               <a href="#"><font>SAMPLE ICON</font></a>
+             </div>
+             <div class="text-center dashboard-icon">
+               <img src="assets/images/dashboardicon/presentation.png" class="img-responsive" style="width:200px;height:200px;margin: 0 auto;margin-top:40px;margin-bottom:20px;" />
+               <a href="#"><font>SAMPLE ICON</font></a>
+             </div>
+             <div class="text-center dashboard-icon">
+               <img src="assets/images/dashboardicon/coins.png" class="img-responsive" style="width:200px;height:200px;margin: 0 auto;margin-top:40px;margin-bottom:20px;" />
+               <a href="#"><font>SAMPLE ICON</font></a>
+             </div>
+             <div class="text-center dashboard-icon">
+               <img src="assets/images/dashboardicon/diploma.png" class="img-responsive" style="width:200px;height:200px;margin: 0 auto;margin-top:40px;margin-bottom:20px;" />
+               <a href="#"><font>SAMPLE ICON</font></a>
+             </div>
+           </div>
+        </div>
+        <div class="col-sm-3">
+            
+        </div>
+      </div>
     </div>
 
 

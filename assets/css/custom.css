@@ -506,7 +506,6 @@
 --------------------------*/
 
 	.header-div{
-		z-index: 0;
 		margin-left: 2.5%;
 		margin-right: 2.5%;
 		width:95%;
@@ -541,15 +540,14 @@
 
 
 	.redtext-2{
-		width:20%;
+		width:15%;
 		position:absolute;
 		top:47%;
 		right:0%;
 	}
 
 	.redtext-underline{
-			margin-left: 40%;
-			margin-right: 40%;
+			margin-right: 42.7%;
 			border-bottom:4px solid #E70112;
 }
 
@@ -597,7 +595,10 @@
 		min-height:1px;
 		padding-left: 15px;
 		padding-left: 15px;
+		margin-top:5px;
 		text-align:center;
+		border-right: 1px solid #DCF3FE;
+		height:90%;
 	}
 
 	.btn-number{
@@ -630,6 +631,19 @@
 		margin:0;
 	}
 
+	.dashboard-container{
+		width:85% !important;
+		max-width: 100%;
+	}
+
+	.dashboard-icon{
+		height:310px;
+		margin:20px;
+		width:28%;
+		float:left;
+		border:1px solid #DCF3FE;
+		background-color:#efefef;
+	}
 
 /*--------------------------
 ------- END  Dashboard -----
