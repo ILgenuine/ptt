@@ -484,9 +484,10 @@
 			margin-bottom: 50px!important;
 		}
 		.login-label-forget {
-			border-bottom: solid 1px;
+			text-decoration:underline;
 			font-size: 14px;
 			margin-left: 15px;
+			font-weight: 300;
 		}
 		.login-title-center {
 			margin: auto;
@@ -670,6 +671,7 @@
 		.contact-label {
 			margin-top: 7px;
 			font-size: 16px;
+			font-weight: 300;
 		}
 		.contact-select {
 			padding-top: 0px;
@@ -683,7 +685,9 @@
 		    width: 15%;
 		    height: 60px;
 		    font-size: 20px;
+		    margin-top: 35px;
 		}
+
 		.contact-position-right {
 			text-align: right;
 		}
@@ -704,6 +708,59 @@
 /*------------------------
 -----END RESET PASSWORD---
 --------------------------*/
+
+
+/*------------------------
+---------- INBOX ----------
+--------------------------*/
+		.inbox-set {
+			padding-right: 30px;
+			padding-left: 55px;
+			padding-top: 35px;
+			padding-bottom: 35px;
+		}
+		.inbox-set-lable {
+			padding-top: 10px;
+		}
+		.inbox-icon-share {
+			color: #666666;
+			cursor: pointer;
+		}
+		.inbox-icon-share:hover {
+			color: #666666;
+			cursor: pointer;
+		}
+		.inbox-pagination {
+			background-color: #fff;
+			color:#00A1E9;
+			border-radius: 2px;
+			height: 40px;
+		}
+		.pagination-left-set {
+			margin-right: 5px!important;
+			padding-top: 8px!important;
+		}
+		.pagination-right-set {
+			margin-left: 5px!important;
+			padding-top: 8px!important;
+		}
+		.inbox-pagination:hover {
+			background-color: #DCF3FE!important;
+			color:#00A1E9;
+		}
+		.inbox-border-none {
+			border:none!important;
+		}
+		.inbox-border-none:hover {
+			background-color: transparent!important;
+		}
+		.right-15 {
+			right: 15px;
+		}
+/*------------------------
+------- END INBOX ---------
+--------------------------*/
+
 
 @media (max-width: 1024px) {
 
