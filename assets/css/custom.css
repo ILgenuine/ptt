@@ -103,6 +103,9 @@
 			.text-red{
 				color:#FC361D;
 			}
+			.text-green {
+				color: #2fd009;
+			}
 
 			.text-white{
 				color:white;
@@ -1016,6 +1019,35 @@
 	    padding: 3px 7px 3px 7px;
 	    text-align: center;
 	    border-radius: 5px;
+	    behavior: url(../../pie/PIE.htc);
+	}
+	.requst-border-th {
+		border: 1px solid #eeeeee;
+	}
+	.vertical-middle{
+		vertical-align: middle!important;
+		behavior: url(../../pie/PIE.htc);
+	}
+	.requst-btn-quantity {
+	    margin-left: 5px;
+	    margin-top: 8px;
+	    color: white;
+	    font-size: 13px;
+	    background-color: #E70112;
+	    padding: 1px 5px 1px 5px;
+	    text-align: center;
+	    border-radius: 25px;
+	    behavior: url(../../pie/PIE.htc);
+	}
+	.requst-btn-quantity:hover {
+	    margin-left: 5px;
+	    margin-top: 8px;
+	    color: white;
+	    font-size: 13px;
+	    background-color: #E70112;
+	    padding: 1px 5px 1px 5px;
+	    text-align: center;
+	    border-radius: 25px;
 	    behavior: url(../../pie/PIE.htc);
 	}
 /*------------------------
