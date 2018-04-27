@@ -18,9 +18,9 @@
                   วัตถุสิ้นเปลือง
                 </a>
                 <ul class="dropdown-menu side-dropdown" aria-labelledby="dropdownMenu1">
-                  <li><a href="#">วัตถุสิ้นเปลือง (ประเภทย่อย)</a></li>
-                  <li><a href="#">วัตถุสิ้นเปลือง (ประเภทย่อย)</a></li>
-                  <li><a href="#">วัตถุสิ้นเปลือง (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">วัตถุสิ้นเปลือง (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">วัตถุสิ้นเปลือง (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">วัตถุสิ้นเปลือง (ประเภทย่อย)</a></li>
                 </ul>
           </div>
           <div class="sidebar-menu">
@@ -28,14 +28,14 @@
                   สี
                 </a>
                 <ul class="dropdown-menu side-dropdown" aria-labelledby="dropdownMenu1">
-                  <li><a class="text-grey active" href="#">สี (ประเภทย่อย)</a></li>
-                  <li><a class="text-grey " href="#">สี (ประเภทย่อย)</a></li>
-                  <li><a class="text-grey " href="#">สี (ประเภทย่อย)</a></li>
-                  <li><a class="text-grey " href="#">สี (ประเภทย่อย)</a></li>
-                  <li><a class="text-grey " href="#">สี (ประเภทย่อย)</a></li>
-                  <li><a class="text-grey " href="#">สี (ประเภทย่อย)</a></li>
-                  <li><a class="text-grey " href="#">สี (ประเภทย่อย)</a></li>
-                  <li><a class="text-grey " href="#">สี (ประเภทย่อย)</a></li>
+                  <li><a class="text-grey active" href="product.php">สี (ประเภทย่อย)</a></li>
+                  <li><a class="text-grey " href="product.php">สี (ประเภทย่อย)</a></li>
+                  <li><a class="text-grey " href="product.php">สี (ประเภทย่อย)</a></li>
+                  <li><a class="text-grey " href="product.php">สี (ประเภทย่อย)</a></li>
+                  <li><a class="text-grey " href="product.php">สี (ประเภทย่อย)</a></li>
+                  <li><a class="text-grey " href="product.php">สี (ประเภทย่อย)</a></li>
+                  <li><a class="text-grey " href="product.php">สี (ประเภทย่อย)</a></li>
+                  <li><a class="text-grey " href="product.php">สี (ประเภทย่อย)</a></li>
                 </ul>
           </div>
           <div class="sidebar-menu">
@@ -43,9 +43,9 @@
                   เครื่องมือช่าง
                 </a>
                 <ul class="dropdown-menu side-dropdown" aria-labelledby="dropdownMenu1">
-                  <li><a href="#">เครื่องมือช่าง (ประเภทย่อย)</a></li>
-                  <li><a href="#">เครื่องมือช่าง (ประเภทย่อย)</a></li>
-                  <li><a href="#">เครื่องมือช่าง (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">เครื่องมือช่าง (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">เครื่องมือช่าง (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">เครื่องมือช่าง (ประเภทย่อย)</a></li>
                 </ul>
           </div>
           <div class="sidebar-menu">
@@ -53,9 +53,9 @@
                   บรรจุภัณฑ์
                 </a>
                 <ul class="dropdown-menu side-dropdown" aria-labelledby="dropdownMenu1">
-                  <li><a href="#">บรรจุภัณฑ์ (ประเภทย่อย)</a></li>
-                  <li><a href="#">บรรจุภัณฑ์ (ประเภทย่อย)</a></li>
-                  <li><a href="#">บรรจุภัณฑ์ (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">บรรจุภัณฑ์ (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">บรรจุภัณฑ์ (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">บรรจุภัณฑ์ (ประเภทย่อย)</a></li>
                 </ul>
           </div>
 
@@ -64,9 +64,9 @@
                   อุปกรณ์เซฟตี้
                 </a>
                 <ul class="dropdown-menu side-dropdown" aria-labelledby="dropdownMenu1">
-                  <li><a href="#">อุปกรณ์เซฟตี้ (ประเภทย่อย)</a></li>
-                  <li><a href="#">อุปกรณ์เซฟตี้ (ประเภทย่อย)</a></li>
-                  <li><a href="#">อุปกรณ์เซฟตี้ (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">อุปกรณ์เซฟตี้ (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">อุปกรณ์เซฟตี้ (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">อุปกรณ์เซฟตี้ (ประเภทย่อย)</a></li>
                 </ul>
           </div>
 
@@ -75,9 +75,9 @@
                   เคมีภัณฑ์
                 </a>
                 <ul class="dropdown-menu side-dropdown" aria-labelledby="dropdownMenu1">
-                  <li><a href="#">เคมีภัณฑ์ (ประเภทย่อย)</a></li>
-                  <li><a href="#">เคมีภัณฑ์ (ประเภทย่อย)</a></li>
-                  <li><a href="#">เคมีภัณฑ์ (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">เคมีภัณฑ์ (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">เคมีภัณฑ์ (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">เคมีภัณฑ์ (ประเภทย่อย)</a></li>
                 </ul>
           </div>
 
@@ -86,9 +86,9 @@
                   สินค้า (BRANDS)
                 </a>
                 <ul class="dropdown-menu side-dropdown" aria-labelledby="dropdownMenu1">
-                  <li><a href="#">สินค้า (BRANDS) (ประเภทย่อย)</a></li>
-                  <li><a href="#">สินค้า (BRANDS) (ประเภทย่อย)</a></li>
-                  <li><a href="#">สินค้า (BRANDS) (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">สินค้า (BRANDS) (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">สินค้า (BRANDS) (ประเภทย่อย)</a></li>
+                  <li><a href="product.php">สินค้า (BRANDS) (ประเภทย่อย)</a></li>
                 </ul>
           </div>
 
@@ -138,7 +138,7 @@
               </div>
             </div>
             <div class="col-sm-12 mt-4">
-              <a href="#"><font class="text-grey">รายการสินค้า > </font></a><a href="#"><font class="text-grey">ประเภทสินค้า ></font></a> <font class="text-darkblue">TEST TEXT</font>
+              <a href="product.php"><font class="text-grey">รายการสินค้า > </font></a><a href="product.php"><font class="text-grey">ประเภทสินค้า ></font></a> <font class="text-darkblue">TEST TEXT</font>
             </div>
           </div>
 

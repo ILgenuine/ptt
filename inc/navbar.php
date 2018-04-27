@@ -16,8 +16,8 @@
                         Mana Jaidee
                       </button>
                       <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-                        <li><a href="#">PROFILE</a></li>
-                        <li><a href="#">RESET PASSWORD</a></li>
+                        <li><a href="editprofile.php">PROFILE</a></li>
+                        <li><a href="resetpassword.php">RESET PASSWORD</a></li>
                         <li><a href="#">LOGOUT</a></li>
                       </ul>
                     </div>
