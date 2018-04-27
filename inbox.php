@@ -7,28 +7,7 @@
 
     <?php include_once('inc/navbar.php'); ?>
 
-    <div class="col-12">
-
-      <div class="header-img-frame" style="height:400px;">
-        <div style="background: url(assets/images/bg/header-bg.jpg) fixed;z-index:-1;position:absolute;top:0;height:400px;width:100%;">
-        </div>
-          <!-- <img src="assets/images/bg/header-bg.jpg" class="img-responsive" style="width:100%;height:450px;z-index:-1;"/> -->
-
-          <div class="redtext">
-                <h1 class="redtext-title text-center pagination-centered">SP PTTGC</h1>
-          </div>
-
-          <div class="redtext-2 redtext-underline">
-          </div>
-
-          <div class="whitetext">
-            <div class="section-content">
-              <h3 class="redtext-title text-center pagination-centered">PARTNERSHIP OF CONSUMABLE CONTRACT</h3>
-            </div>
-          </div>
-      </div>
-    </div>
-<!-- ===================================== CONTENT ==================================== -->
+<!-- ===================================== TABLE ==================================== -->
       <div class="row inbox-set">
         <div class="col-sm-8">
           <label class="text-darkblue inbox-set-lable">Inbox</label>

@@ -8,6 +8,8 @@
 
     <?php include_once('inc/navbar.php'); ?>
         <div class="row contact-row text-grey">
+
+
           <div class="col-md-6">
             <div class="col-md-12"><p class="contact-text-haed"><b>บริษัท พีทีที โกลบอล เคมิคอล จำกัด (มหาชน)</b></p></div>
             <div class="col-md-12 contact-pb-1">
@@ -87,7 +89,6 @@
                     <textarea class="form-control contact-formborser contact-mb-1" rows="8" id="comment" style="resize: none;"></textarea>
                 </div>
               </div>
-
           </div>
 
 
