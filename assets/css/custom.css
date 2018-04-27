@@ -336,13 +336,8 @@
 			height:auto;
 		}
 
-		.nav > LI > A{
-			transition: all 2s;
-			behavior: url(../../pie/PIE.htc);
-		}
-
 		.nav > LI > A:hover{
-			color:#020091;
+			color:#020091 !important;
 			background-color:transparent;
 			behavior: url(../../pie/PIE.htc);
 		}
@@ -829,7 +824,8 @@
 -------------------------*/
 
 	.side-dropdown{
-		height:350px;
+		min-height: 115px;
+		max-height:350px;
 		overflow-y: scroll;
 		top:-3px;
 		left:100%;
@@ -959,7 +955,7 @@
 	}
 
 	.enlarge{
-		padding:30px 60px 30px 60px; 
+		padding:25px 50px 25px 50px;
 	}
 
 /*------------------------

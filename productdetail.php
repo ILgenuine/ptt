@@ -106,7 +106,7 @@
         <div class="col-sm-10 mt-4">
 
 
-          <div class="row">
+          <div class="row" style="position:relative;z-index:-1;">
             <div class="col-sm-6">
               <div class="w90per">
                 <div class="col-sm-12 padding-x-0">
@@ -120,17 +120,17 @@
             <div class="col-sm-3">
               <div class="w90per">
                 <select class="custom-option" style="margin-top:10px;">
-                  <option>test1</option>
+                  <option>ประเภทสินค้า</option>
                   <option>test2</option>
                   <option>test3</option>
                   <option>test4</option>
                 </select>
               </div>
             </div>
-            <div class="col-sm-3">
-              <div class="w90per">
+            <div class="col-sm-3 style="position:relative;z-index:0;"">
+              <div class="w90per" >
                 <select class="custom-option" style="margin-top:10px;">
-                  <option>test1</option>
+                  <option>แบรนด์สินค้า</option>
                   <option>test2</option>
                   <option>test3</option>
                   <option>test4</option>
@@ -206,9 +206,9 @@
                           <h4>เพิ่มสินค้าลงในตะกร้า</h4>
                         </button>
 
-                        <button  type="submit" class="btn btn-default btn-ghost enlarge mt-4">
+                        <a  href="product.php" type="submit" class="btn btn-default btn-ghost enlarge mt-4">
                           <h4>กลับไปเลือกสินค้าต่อ</h4>
-                        </button>
+                        </a>
                       </div>
                     </div>
                   </div>
@@ -240,7 +240,7 @@
                    </div>
 
                    <div class="product-name">
-                     <font class="text-blue">01-165-2</font>
+                     <a href="productdetail.php"><font class="text-blue">01-165-2</font></a>
                    </div>
 
                    <div class="product-detail">
@@ -276,7 +276,7 @@
                     </div>
 
                     <div class="product-name">
-                      <font class="text-blue">01-165-2</font>
+                      <a href="productdetail.php"><font class="text-blue">01-165-2</font></a>
                     </div>
 
                     <div class="product-detail">
@@ -313,7 +313,7 @@
                      </div>
 
                      <div class="product-name">
-                       <font class="text-blue">01-165-2</font>
+                       <a href="productdetail.php"><font class="text-blue">01-165-2</font></a>
                      </div>
 
                      <div class="product-detail">
@@ -350,7 +350,7 @@
                       </div>
 
                       <div class="product-name">
-                        <font class="text-blue">01-165-2</font>
+                        <a href="productdetail.php"><font class="text-blue">01-165-2</font></a>
                       </div>
 
                       <div class="product-detail">
