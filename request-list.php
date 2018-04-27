@@ -11,12 +11,14 @@
 
       <div class="row inbox-set">
         <div class="col-sm-12 text-grey requst-set-title-bottom">
-          <font>ใบสั่งซื้อสินค้า</font> > <font class="text-darkblue">รายการใบสั่งซื้อทั้งหมด</font>
+          <a class="inbox-icon-share">ใบสั่งซื้อสินค้า</a>
+          <font class="text-grey"> > </font>
+          <a class="text-darkblue cursor-pointer">รายการใบสั่งซื้อทั้งหมด</a>
         </div>
 
 
         <div class="col-sm-8">
-          <select class="custom-option requst-set-col-3 ">
+          <select class="custom-option requst-set-col-3">
             <option>test1</option>
             <option>test2</option>
             <option>test3</option>
@@ -27,18 +29,18 @@
         <div class="col-sm-4 text-right">
 
           <form class="form-inline">
-            <div class="form-group mr-5">
-              <button type="submit" class="btn btn-title-plus padding-x-0 requst-set-mt--7">
+            <div class="form-group requst-mr5">
+              <button type="submit" class="btn requst-btn-title-plus padding-x-0 requst-set-bnt-size">
                   <i class="glyphicon glyphicon-plus" aria-hidden="true"></i>
               </button>
-              <label class="text-grey">Keep On Shelf</label>
+              <label class="text-grey ml-3">Keep On Shelf</label>
             </div>
 
             <div class="form-group">
-              <button type="submit" class="btn btn-title-plus padding-x-0 requst-set-mt--7">
+              <button type="submit" class="btn requst-btn-title-plus padding-x-0 requst-set-bnt-size">
                   <i class="glyphicon glyphicon-plus" aria-hidden="true"></i>
               </button>
-              <label class="text-grey">As Request</label>
+              <label class="text-grey ml-3">As Request</label>
             </div>
 
           </form>

@@ -735,8 +735,8 @@
 			margin-bottom: 10px;
 		}
 		.contact-btn-size {
-		    width: 15%;
-		    height: 60px;
+		    width: 22%;
+		    height: 80px;
 		    font-size: 20px;
 		    margin-top: 35px;
 		}
@@ -918,6 +918,7 @@
 	}
 
 
+
 /*------------------------
 ------- END PRODUCT ------
 -------------------------*/
@@ -964,7 +965,51 @@
 /*------------------------
 --- END PRODUCT  DETAIL --
 -------------------------*/
+/*------------------------
+----- REQUEST-ENTRY ------
+-------------------------*/
+	.requst-set-title-bottom {
+		margin-bottom: 20px;
+	}
+	.requst-set-col-3 {
+		width: 33.33333%;
+	}
+	.requst-set-bnt-size {
+		width: 40px;
+		height: 40px;
+	}
+	.requst-mr5 {
+		margin-right: 30px;
+	}
+	.cursor-pointer {
+		cursor: pointer;
+	}
+	.requst-btn-title-plus {
+	    margin-left: 5px;
+	    margin-top: 8px;
+	    margin-top: -7px;
+	    color: white;
+	    font-size: 13px;
+	    background-color: #020091;
+	    border: 1px solid #020091;
+	    padding: 3px 7px 3px 7px;
+	    text-align: center;
+	    border-radius: 5px;
+	    behavior: url(../../pie/PIE.htc);
+	}
+/*------------------------
+----- END REQUEST-ENTRY ---
+-------------------------*/
 
+/*------------------------
+-------- REPORT ----------
+-------------------------*/
+	.report-pt-10 {
+		padding-top: 10px;
+	}
+/*------------------------
+----- END REPORT ---------
+-------------------------*/
 
 @media (max-width: 1024px) {
 

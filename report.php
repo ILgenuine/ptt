@@ -18,7 +18,7 @@
         </div>
 
         <div class="col-sm-7">
-          <div class="col-sm-4">
+          <div class="col-sm-4 report-pt-10">
             <select class="custom-option report-set-input">
               <option>test1</option>
               <option>test2</option>
@@ -26,7 +26,7 @@
               <option>test4</option>
             </select>
           </div>
-          <div class="col-sm-4">
+          <div class="col-sm-4 report-pt-10">
             <select class="custom-option report-set-input">
               <option>test1</option>
               <option>test2</option>
@@ -34,7 +34,7 @@
               <option>test4</option>
             </select>
           </div>
-          <div class="col-sm-4">
+          <div class="col-sm-4 report-pt-10">
             <select class="custom-option report-set-input">
               <option>test1</option>
               <option>test2</option>
