@@ -1,7 +1,7 @@
 <nav class="nav navbar padding-x-0">
 
         <div class="col-md-2">
-            <img src="assets/images/logo/logo.png" class="img-responsive" style="position:relative;top:5px" />
+            <a href="dashboard.php"><img src="assets/images/logo/logo.png" class="img-responsive" style="position:relative;top:5px" /></a>
         </div>
         <div class="col-md-10">
 
