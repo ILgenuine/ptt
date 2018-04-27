@@ -121,16 +121,18 @@
                       </select>
                     </div>
 
-                    <div class="col-sm-3 mt-4">
-                      ชื่อจริง (ภาษาไทย)
-                    </div>
-                    <div class="col-sm-9 mt-4">
-                      <select class="custom-option resize">
-                        <option>test1</option>
-                        <option>test2</option>
-                        <option>test3</option>
-                        <option>test4</option>
-                      </select>
+                    <div class="row px-3">
+                      <div class="col-sm-3 mt-4">
+                        ชื่อจริง (ภาษาไทย)
+                      </div>
+                      <div class="col-sm-8 ml-2 mt-4">
+                        <select class="custom-option resize">
+                          <option>test1</option>
+                          <option>test2</option>
+                          <option>test3</option>
+                          <option>test4</option>
+                        </select>
+                      </div>
                     </div>
 
 
