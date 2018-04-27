@@ -10,11 +10,11 @@
             </div>
             <div class="col-xs-8">
                <ul class="nav navbar-nav">
-                    <li><a class="text-white" href="#">Dashboard</a></li>
-                    <li><a class="text-white" href="#">รายการสินค้า</a></li>
-                    <li><a class="text-white" href="#">ใบสั่งซื้อ</a></li>
-                    <li><a class="text-white" href="#">ติดต่อ</a></li>
-                    <li><a class="text-white" href="#">รายงาน</a></li>
+                    <li><a class="text-white" href="dashboard.php">Dashboard</a></li>
+                    <li><a class="text-white" href="product.php">รายการสินค้า</a></li>
+                    <li><a class="text-white" href="request.php">ใบสั่งซื้อ</a></li>
+                    <li><a class="text-white" href="report.php">รายงาน</a></li>
+                    <li><a class="text-white" href="contact.php">ติดต่อ</a></li>
                 </ul>
              </div>
              <div class="col-xs-2">

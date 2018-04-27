@@ -41,11 +41,11 @@
 
             <div class="row pull-left">
               <ul class="nav navbar-nav pull-left">
-                   <li><a class="text-grey" href="#">DASHBOARD</a></li>
-                   <li><a class="text-grey" href="#">PRODUCT</a></li>
-                   <li><a class="text-grey" href="#">REQUEST ENTRY</a></li>
-                   <li><a class="text-grey" href="#">REPORT</a></li>
-                   <li><a class="text-grey" href="#">CONTACT US</a></li>
+                   <li><a class="text-grey" href="dashboard.php">DASHBOARD</a></li>
+                   <li><a class="text-grey" href="product.php">PRODUCT</a></li>
+                   <li><a class="text-grey" href="request.php">REQUEST ENTRY</a></li>
+                   <li><a class="text-grey" href="report.php">REPORT</a></li>
+                   <li><a class="text-grey" href="contact.php">CONTACT US</a></li>
                </ul>
                <ul class="nav navbar-nav pull-right">
                   <li><input type="text" class="form-control search-form" aria-label="..."></li>
