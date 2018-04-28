@@ -176,7 +176,7 @@
                   <td class="requst-border-th px-3 text-center vertical-middle">5,000</td>
                   <td class="requst-border-th px-3 text-center vertical-middle text-green">NEW REQUSET</td>
                   <td class="requst-border-th text-center vertical-middle">
-                      <button type="submit" class="btn btn-default requst-btn-quantity">
+                      <button type="button" class="btn btn-default requst-btn-quantity">
                             <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
                       </button> 
                   </td>
@@ -192,7 +192,7 @@
                   <td class="requst-border-th px-3 text-center vertical-middle">5,000</td>
                   <td class="requst-border-th px-3 text-center vertical-middle text-green">NEW REQUSET</td>
                   <td class="requst-border-th text-center vertical-middle">
-                      <button type="submit" class="btn btn-default requst-btn-quantity">
+                      <button type="button" class="btn btn-default requst-btn-quantity">
                             <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
                       </button> 
                   </td>
