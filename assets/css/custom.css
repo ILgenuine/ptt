@@ -222,7 +222,7 @@
 
 			.btn-quantity{
 				margin-left:5px;
-				margin-top:8px;
+				/*margin-top:8px;*/
 				color:white;
 				font-size:13px;
 				background-color:#2799D2;
@@ -1045,7 +1045,7 @@
 	    padding: 1px 5px 1px 5px;
 	    text-align: center;
 	    border-radius: 25px;
-	    behavior: url(../../pie/PIE.htc);
+	    /*behavior: url(../../pie/PIE.htc);*/
 	}
 	.requst-btn-quantity:hover {
 	    margin-left: 5px;
@@ -1056,7 +1056,7 @@
 	    padding: 1px 5px 1px 5px;
 	    text-align: center;
 	    border-radius: 25px;
-	    behavior: url(../../pie/PIE.htc);
+	    /*behavior: url(../../pie/PIE.htc);*/
 	}
 /*------------------------
 ----- END REQUEST-ENTRY ---
