@@ -12,12 +12,25 @@
         <div class="col-sm-8">
           <label class="text-darkblue inbox-set-lable">Inbox</label>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-2">
             <input placeholder="ค้นหา" type="text" class="form-control search-form">
             <button class="search-box">
               <span class="glyphicon glyphicon-search form-control-feedback right-15"></span>
             </button>
         </div>
+
+        <div class="col-sm-2 mt-2 text-right">
+          <form class="form-inline">
+            <div class="form-group">
+              <a href="#myModal" role="button" class="btn requst-btn-title-plus padding-x-0 requst-set-bnt-size" data-toggle="modal">
+                  <i class="glyphicon glyphicon-plus" aria-hidden="true"></i>
+              </a>
+              <label class="text-grey mr-0 ml-3">เพิ่ม</label>
+            </div>
+          </form>
+        </div>
+
+
         <div class="col-sm-12 mt-4">
           <table class="width100 table">
             <tr>
@@ -122,6 +135,30 @@
             </tr>
           </table>
         </div>
+
+
+        <!-- Modal HTML -->
+        <div id="myModal" class="modal fade">
+              <div class="modal-dialog">
+                  <div class="modal-content">
+                      <div class="modal-header">
+                          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                          <h4 class="modal-title">Confirmation</h4>
+                      </div>
+                      <div class="modal-body">
+                          <p>Do you want to save changes you made to document before closing?</p>
+                          <p class="text-warning"><small>If you don't save, your changes will be lost.</small></p>
+                      </div>
+                      <div class="modal-footer">
+                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                          <button type="button" class="btn btn-primary">Save changes</button>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+
+
 
 
         <div class="col-sm-12 mt-4">
