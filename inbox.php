@@ -123,10 +123,12 @@
                                   </button>
                                 </div>
                                 <div class="col-sm-12 mt-2">
-                                  <span class="btn btn-file btn-ghost  w-100">
-                                    แนบไฟล์
-                                    <input type="file">
-                                  </span>
+                                  <div class="file-upload-frame">
+                                      <span class="btn btn-file btn-ghost  w-100">
+                                        แนบไฟล์
+                                        <input class="re-decorate-file" type="file">
+                                      </span>
+                                  </div>
                                 </div>
                             </div>
                           </div>
@@ -180,7 +182,7 @@
             <tr>
               <td class="text-center text-grey">3</td>
               <td class="text-darkblue">หัวข้อคำถาม CC</td>
-              <td class="text-center text-grey">มานะ ใจดี</td>
+              <td class="text-center text-grey">มานะ ใจดี</td>_
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
