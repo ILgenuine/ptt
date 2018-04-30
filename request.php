@@ -159,10 +159,10 @@
             </button>
           </div>
           <div class="col-sm-3 requst-px-autoset">
-            <span class="flaticon-copy-content requst-flaticon col-sm-3" ></span>
-            <span class="flaticon-letter requst-flaticon col-sm-3"></span>
-            <span class="flaticon-printing-tool requst-flaticon col-sm-3"></span>
-            <span class="flaticon-download-button requst-flaticon col-sm-3"></span>
+            <a href="#"><span class="flaticon-copy-content requst-flaticon col-sm-3" ></span></a>
+            <a href="#"><span class="flaticon-letter requst-flaticon col-sm-3"></span></a>
+            <a href="#"><span class="flaticon-printing-tool requst-flaticon col-sm-3"></span></a>
+            <a href="#"><span class="flaticon-download-button requst-flaticon col-sm-3"></span></a>
           </div>
 
 

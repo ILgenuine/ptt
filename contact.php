@@ -14,21 +14,21 @@
             <div class="col-md-12"><p class="contact-text-haed"><b>บริษัท พีทีที โกลบอล เคมิคอล จำกัด (มหาชน)</b></p></div>
             <div class="col-md-12 contact-pb-1">
               <div class="col-md-1"><i class="flaticon-office contact-pr-0"></i></div>
-              <div class="col-md-11 contact-pl-5">Head Office เลขที่ 555/1 ศูนย์เอนเนอร์ยี่คอมเพล็กซ์ อาคารเอกชั้น 3,10 ถนนวิภาวดีรังสิต แขวงจอมพล เขตจตุจักร กรุงเทพ 10900</div>
+              <div class="col-md-11 contact-pl-5 contact-hidden-1">Head Office เลขที่ 555/1 ศูนย์เอนเนอร์ยี่คอมเพล็กซ์ อาคารเอกชั้น 3,10 ถนนวิภาวดีรังสิต แขวงจอมพล เขตจตุจักร กรุงเทพ 10900</div>
             </div>
 
             <div class="col-md-12 contact-pb-1">
               <div class="col-md-1"><i class="flaticon-telephone contact-pr-0"></i></div>
-              <div class="col-md-11 contact-pl-5">02-2265-8400</div>
+              <div class="col-md-11 contact-pl-5 contact-hidden-2">02-2265-8400</div>
             </div>
 
             <div class="col-md-12 contact-pb-1">
               <div class="col-md-1"><i class="flaticon-technology-1 contact-pr-0"></i></div>
-              <div class="col-md-11 contact-pl-5">02-2265-8500</div>
+              <div class="col-md-11 contact-pl-5 contact-hidden-2">02-2265-8500</div>
             </div>
 
             <div class="col-md-12">
-              <div><img src="assets/images/Head-Office.jpg" width="100%" height="350" style="border: solid 1px #DCF3FE;"></div>
+              <div><img src="assets/images/Head-Office.jpg" width="100%" height="358" style="border: solid 1px #DCF3FE;"></div>
             </div>
           </div>
 

@@ -779,6 +779,14 @@
 		.contact-position-right {
 			text-align: right;
 		}
+		.contact-hidden-1 {
+    		overflow:  hidden;
+    		height: 53px;
+		}
+		.contact-hidden-2 {
+    		overflow:  hidden;
+    		height: 25px	
+		}
 
 /*------------------------
 ------- END CONTACT ------
