@@ -23,12 +23,128 @@
           <form class="form-inline">
             <div class="form-group">
               <a href="#myModal" role="button" class="btn requst-btn-title-plus padding-x-0 requst-set-bnt-size" data-toggle="modal">
-                  <i class="glyphicon glyphicon-plus" aria-hidden="true"></i>
+                  <i class="glyphicon glyphicon-plus pt-2-5" aria-hidden="true"></i>
               </a>
-              <label class="text-grey mr-0 ml-3">เพิ่ม</label>
+              <label class="text-grey mr-0 ml-3">เพิ่มหัวข้อคำถาม</label>
             </div>
           </form>
         </div>
+
+
+
+
+
+
+
+        <!-- Modal HTML -->
+        <div id="myModal" class="modal fade">
+              <div class="modal-dialog">
+                  <div class="modal-content">
+                      <div class="modal-header">
+                          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                            <i class="glyphicon glyphicon-remove-circle custom-close" aria-hidden="true"></i>
+                          </button>
+                          <h4 class="modal-title text-darkblue">หัวข้อคำถาม</h4>
+                      </div>
+                      <div class="modal-body">
+
+
+
+                          <div class="row">
+
+
+                              <!-- left chat-->
+                              <div class="col-sm-12">
+                                <div class="pull-left">
+                                    <font class="text-grey">มานะใจดี 30/03/2561 09.00 น.</font><br>
+                                      <div class="pull-left">
+                                        <img src="assets/images/footer/sp.jpg" class="footer-sp" style="position:relative;top:5px" />
+                                      </div>
+                                      <div class="pull-left left-chat-mt">
+                                        <font class="left-chat-bubble">
+                                          สอบถาม
+                                        </font>
+                                      </div>
+                                </div>
+                              </div>
+
+
+
+
+                              <!-- Right chat-->
+                              <div class="col-sm-12 pull-right">
+                                <div class="pull-right">
+                                  <font class="text-grey">Web Master 30/03/2561 09.10 น.</font><br>
+                                  <div class="pull-right">
+                                    <img src="assets/images/footer/sp.jpg" class="footer-sp" style="position:relative;top:5px" />
+                                  </div>
+                                  <div class="pull-right right-chat-mt">
+                                    <font class="right-chat-bubble">
+                                      คำตอบ
+                                    </font>
+                                  </div>
+                                </div>
+                              </div>
+
+
+
+
+                              <!-- left chat-->
+                              <div class="col-sm-12">
+                                <div class="pull-left">
+                                    <font class="text-grey">มานะใจดี 30/03/2561 09.15 น.</font><br>
+                                      <div class="pull-left">
+                                        <img src="assets/images/footer/sp.jpg" class="footer-sp" style="position:relative;top:5px" />
+                                      </div>
+                                      <div class="pull-left left-chat-mt">
+                                        <font class="left-chat-bubble">
+                                          สอบถาม
+                                        </font>
+                                      </div>
+                                </div>
+                              </div>
+
+
+                          </div>
+
+
+
+
+                      </div>
+                      <div class="modal-footer">
+                          <div class="row">
+                            <div class="col-sm-10  padding-x-0">
+                              <input placeholder="ค้นหา" type="text" class="form-control search-form" style="z-index:600;">
+                            </div>
+                            <div class="col-sm-2">
+                                <div class="col-sm-12 mt-2">
+                                  <button  type="submit" class="btn btn-default btn-primary w-100">
+                                   ส่ง
+                                  </button>
+                                </div>
+                                <div class="col-sm-12 mt-2">
+                                  <span class="btn btn-file btn-ghost  w-100">
+                                    แนบไฟล์
+                                    <input type="file">
+                                  </span>
+                                </div>
+                            </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
 
 
         <div class="col-sm-12 mt-4">
@@ -135,31 +251,6 @@
             </tr>
           </table>
         </div>
-
-
-        <!-- Modal HTML -->
-        <div id="myModal" class="modal fade">
-              <div class="modal-dialog">
-                  <div class="modal-content">
-                      <div class="modal-header">
-                          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                          <h4 class="modal-title">Confirmation</h4>
-                      </div>
-                      <div class="modal-body">
-                          <p>Do you want to save changes you made to document before closing?</p>
-                          <p class="text-warning"><small>If you don't save, your changes will be lost.</small></p>
-                      </div>
-                      <div class="modal-footer">
-                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                          <button type="button" class="btn btn-primary">Save changes</button>
-                      </div>
-                  </div>
-              </div>
-          </div>
-
-
-
-
 
         <div class="col-sm-12 mt-4">
           <div class="text-center">
