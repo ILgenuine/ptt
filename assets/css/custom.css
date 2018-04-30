@@ -1029,33 +1029,55 @@
 	    border-radius: 5px;
 	    behavior: url(../../pie/PIE.htc);
 	}
+	.requst-px-autoset {
+		padding-left:59px;
+		padding-right:27px;
+	}
 	.requst-border-th {
 		border: 1px solid #eeeeee;
 	}
 	.vertical-middle{
 		vertical-align: middle!important;
-		behavior: url(../../pie/PIE.htc);
+		/*behavior: url(../../pie/PIE.htc);*/
 	}
 	.requst-btn-quantity {
-	    margin-top: 8px;
 	    color: white;
 	    font-size: 13px;
+	    position: absolute;
 	    background-color: #E70112;
 	    padding: 1px 5px 1px 5px;
+	    width: 35px;
+	    height: 35px;
+	    margin-top: -20px;
 	    text-align: center;
-	    border-radius: 25px;
+  		border-radius: 50px;
 	    behavior: url(../../pie/PIE.htc);
 	}
 	.requst-btn-quantity:hover {
-	    margin-top: 8px;
-	    color: white;
-	    font-size: 13px;
 	    background-color: #E70112;
-	    padding: 1px 5px 1px 5px;
-	    text-align: center;
-	    border-radius: 25px;
-	    behavior: url(../../pie/PIE.htc);
+	    box-shadow: 0px 0px 8px 2px #000000;
 	}
+	.requst-bnt-plus-size {
+		width: 40px;
+		height: 40px;
+		font-size: 25px;
+	}
+	.requst-bnt-plus-size:hover {
+		width: 40px;
+		height: 40px;
+		font-size: 25px;
+	}
+	.requst-flaticon:before {
+		font-size: 40px;
+		text-align: center;
+		color: #666666;
+		behavior: url(../../pie/PIE.htc);
+	}
+/*	.requst-flaticon {
+		font-size: 40px;
+		text-align: center;
+		color: #666666;
+	}*/
 /*------------------------
 ----- END REQUEST-ENTRY ---
 -------------------------*/
@@ -1096,10 +1118,9 @@
 		border:1px solid transparent;
 		behavior: url(../../pie/PIE.htc);
 	}
-
 	.btn-file {
-    position: relative;
-    overflow: hidden;
+	    position: relative;
+	    overflow: hidden;
 	}
 
 	.btn-file input[type=file] {
@@ -1112,8 +1133,8 @@
 	    text-align: right;
 	    filter: alpha(opacity=0);
 	    outline: none;
-			background-color:transparent;
-			cursor: inherit;
+		background-color:transparent;
+		cursor: inherit;
 	    display: block;
 	}
 

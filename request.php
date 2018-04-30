@@ -147,7 +147,23 @@
               </div>
         </div>
 
+
         <div class="row mt-4 mb-4" style="padding: 5px;">
+
+          <div class="col-sm-9 requst-px-autoset">
+            <button type="submit" class="btn btn-title-plus padding-x-0 requst-bnt-plus-size">
+              <i class="glyphicon glyphicon-plus" aria-hidden="true" style="top: 4px;"></i>
+            </button>
+          </div>
+          <div class="col-sm-3 requst-px-autoset">
+            <span class="flaticon-copy-content requst-flaticon col-sm-3" ></span>
+            <span class="flaticon-letter requst-flaticon col-sm-3"></span>
+            <span class="flaticon-printing-tool requst-flaticon col-sm-3"></span>
+            <span class="flaticon-download-button requst-flaticon col-sm-3"></span>
+          </div>
+
+
+
           <div class="col-sm-12 mt-4 m-3 mb-4 px-5">
             <table class="table width100" style="margin:auto;">
               <thead>
@@ -174,10 +190,10 @@
                   <td class="requst-border-th text-center vertical-middle">ชิ้น</td>
                   <td class="requst-border-th text-center vertical-middle">100</td>
                   <td class="requst-border-th px-3 text-center vertical-middle">5,000</td>
-                  <td class="requst-border-th px-3 text-center vertical-middle text-green">NEW REQUSET</td>
-                  <td class="requst-border-th text-center vertical-middle">
-                      <button type="button" class="btn btn-default requst-btn-quantity">
-                            <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
+                  <td class="requst-border-th px-3 text-center vertical-middle text-green" style="border-right: none;">NEW REQUSET</td>
+                  <td class="requst-border-th vertical-middle" style="border-left: none;">
+                      <button type="button" class="requst-btn-quantity">
+                          <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
                       </button> 
                   </td>
                 </tr>
@@ -190,10 +206,10 @@
                   <td class="requst-border-th text-center vertical-middle">ชิ้น</td>
                   <td class="requst-border-th text-center vertical-middle">100</td>
                   <td class="requst-border-th px-3 text-center vertical-middle">5,000</td>
-                  <td class="requst-border-th px-3 text-center vertical-middle text-green">NEW REQUSET</td>
-                  <td class="requst-border-th text-center vertical-middle">
-                      <button type="button" class="btn btn-default requst-btn-quantity">
-                            <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
+                  <td class="requst-border-th px-3 text-center vertical-middle text-green" style="border-right: none;">NEW REQUSET</td>
+                  <td class="requst-border-th vertical-middle" style="border-left: none;position: relative;">
+                      <button type="button" class="requst-btn-quantity">
+                          <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
                       </button> 
                   </td>
                 </tr>
