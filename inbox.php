@@ -22,7 +22,7 @@
         <div class="col-sm-2 mt-2 text-right">
           <form class="form-inline">
             <div class="form-group">
-              <a href="#myModal" role="button" class="btn requst-btn-title-plus padding-x-0 requst-set-bnt-size" data-toggle="modal">
+              <a  role="button" class="btn requst-btn-title-plus padding-x-0 requst-set-bnt-size" >
                   <i class="glyphicon glyphicon-plus pt-2-5" aria-hidden="true"></i>
               </a>
               <label class="text-grey mr-0 ml-3">เพิ่มหัวข้อคำถาม</label>
@@ -166,7 +166,7 @@
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
-              <td class="text-center"><a class="glyphicon glyphicon-share inbox-icon-share"></a></td>
+              <td class="text-center"><a href="#myModal" data-toggle="modal" class="glyphicon glyphicon-share inbox-icon-share"></a></td>
             </tr>
             <tr>
               <td class="text-center text-grey">2</td>
@@ -175,7 +175,7 @@
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
-              <td class="text-center text-grey"><a class="glyphicon glyphicon-share inbox-icon-share"></a></td>
+              <td class="text-center text-grey"><a href="#myModal" data-toggle="modal" class="glyphicon glyphicon-share inbox-icon-share"></a></td>
             </tr>
             <tr>
               <td class="text-center text-grey">3</td>
@@ -184,7 +184,7 @@
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
-              <td class="text-center text-grey"><a class="glyphicon glyphicon-share inbox-icon-share"></a></td>
+              <td class="text-center text-grey"><a href="#myModal" data-toggle="modal" class="glyphicon glyphicon-share inbox-icon-share"></a></td>
             </tr>
             <tr>
               <td class="text-center text-grey">4</td>
@@ -193,7 +193,7 @@
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
-              <td class="text-center text-grey"><a class="glyphicon glyphicon-share inbox-icon-share"></a></td>
+              <td class="text-center text-grey"><a href="#myModal" data-toggle="modal" class="glyphicon glyphicon-share inbox-icon-share"></a></td>
             </tr>
             <tr>
               <td class="text-center text-grey">5</td>
@@ -202,7 +202,7 @@
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
-              <td class="text-center text-grey"><a class="glyphicon glyphicon-share inbox-icon-share"></a></td>
+              <td class="text-center text-grey"><a href="#myModal" data-toggle="modal" class="glyphicon glyphicon-share inbox-icon-share"></a></td>
             </tr>
             <tr>
               <td class="text-center text-grey">6</td>
@@ -211,7 +211,7 @@
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
-              <td class="text-center text-grey"><a class="glyphicon glyphicon-share inbox-icon-share"></a></td>
+              <td class="text-center text-grey"><a href="#myModal" data-toggle="modal" class="glyphicon glyphicon-share inbox-icon-share"></a></td>
             </tr>
             <tr>
               <td class="text-center text-grey">7</td>
@@ -220,7 +220,7 @@
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
-              <td class="text-center text-grey"><a class="glyphicon glyphicon-share inbox-icon-share"></a></td>
+              <td class="text-center text-grey"><a href="#myModal" data-toggle="modal" class="glyphicon glyphicon-share inbox-icon-share"></a></td>
             </tr>
             <tr>
               <td class="text-center text-grey">8</td>
@@ -229,7 +229,7 @@
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
-              <td class="text-center text-grey"><a class="glyphicon glyphicon-share inbox-icon-share"></a></td>
+              <td class="text-center text-grey"><a href="#myModal" data-toggle="modal" class="glyphicon glyphicon-share inbox-icon-share"></a></td>
             </tr>
             <tr>
               <td class="text-center text-grey">9</td>
@@ -238,7 +238,7 @@
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
-              <td class="text-center text-grey"><a class="glyphicon glyphicon-share inbox-icon-share"></a></td>
+              <td class="text-center text-grey"><a href="#myModal" data-toggle="modal" class="glyphicon glyphicon-share inbox-icon-share"></a></td>
             </tr>
             <tr>
               <td class="text-center text-grey">10</td>
@@ -247,7 +247,7 @@
               <td class="text-center text-grey">01/01/2561 09.00</td>
               <td class="text-center text-grey">มานี ใจดี</td>
               <td class="text-center text-grey">01/01/2561 10.00</td>
-              <td class="text-center text-grey"><a class="glyphicon glyphicon-share inbox-icon-share"></a></td>
+              <td class="text-center text-grey"><a href="#myModal" data-toggle="modal" class="glyphicon glyphicon-share inbox-icon-share"></a></td>
             </tr>
           </table>
         </div>
