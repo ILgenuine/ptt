@@ -785,7 +785,7 @@
 		}
 		.contact-hidden-2 {
     		overflow:  hidden;
-    		height: 25px	
+    		height: 25px;	
 		}
 
 /*------------------------
@@ -1067,7 +1067,7 @@
 	}
 	.requst-btn-quantity:hover {
 	    background-color: #E70112;
-	    box-shadow: 0px 0px 8px 2px #000000;
+    	box-shadow: 0px 0px 0px 1px #9E9E9E;	
 	}
 	.requst-bnt-plus-size {
 		width: 40px;
