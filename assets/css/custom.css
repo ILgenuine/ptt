@@ -1037,7 +1037,6 @@
 		behavior: url(../../pie/PIE.htc);
 	}
 	.requst-btn-quantity {
-	    margin-left: 5px;
 	    margin-top: 8px;
 	    color: white;
 	    font-size: 13px;
@@ -1048,7 +1047,6 @@
 	    behavior: url(../../pie/PIE.htc);
 	}
 	.requst-btn-quantity:hover {
-	    margin-left: 5px;
 	    margin-top: 8px;
 	    color: white;
 	    font-size: 13px;
