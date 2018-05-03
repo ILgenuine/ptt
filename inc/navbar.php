@@ -41,11 +41,14 @@
 
             <div class="row pull-left">
               <ul class="nav navbar-nav pull-left">
-                   <li><a class="text-grey" href="dashboard.php">DASHBOARD</a></li>
-                   <li><a class="text-grey" href="product.php">PRODUCT</a></li>
-                   <li><a class="text-grey" href="request.php">REQUEST ENTRY</a></li>
-                   <li><a class="text-grey" href="report.php">REPORT</a></li>
-                   <li><a class="text-grey" href="contact.php">CONTACT US</a></li>
+
+                <?php $actual_link = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];?>
+
+                   <li><a class="text-grey-manubar <?php if($actual_link == "http://localhost/ptt/dashboard.php" || $actual_link == "http://localhost/ptt/dashboard.php") echo "active-menu"; else ""; ?>" href="dashboard.php">DASHBOARD</a></li>
+                   <li><a class="text-grey-manubar <?php if($actual_link == "http://localhost/ptt/product.php" || $actual_link == "http://localhost/ptt/product.php") echo "active-menu"; else ""; ?>" href="product.php">PRODUCT</a></li>
+                   <li><a class="text-grey-manubar <?php if($actual_link == "http://localhost/ptt/request.php" || $actual_link == "http://localhost/ptt/request.php") echo "active-menu"; else ""; ?>" href="request.php">REQUEST ENTRY</a></li>
+                   <li><a class="text-grey-manubar <?php if($actual_link == "http://localhost/ptt/report.php" || $actual_link == "http://localhost/ptt/report.php") echo "active-menu"; else ""; ?>" href="report.php">REPORT</a></li>
+                   <li><a class="text-grey-manubar <?php if($actual_link == "http://localhost/ptt/contact.php" || $actual_link == "http://localhost/ptt/contact.php") echo "active-menu"; else ""; ?>" href="contact.php">CONTACT US</a></li>
                </ul>
                <ul class="nav navbar-nav pull-right">
                   <li><input type="text" class="form-control search-form" aria-label="..."></li>

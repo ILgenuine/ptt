@@ -34,7 +34,7 @@
 
 
 
-          <div class="col-md-6 contact-background-set">
+          <div class="col-md-6 contact-background-set" style="position: relative;">
               <div class="form-group">
                 <label class="control-label col-md-3 contact-label">เลือกหัวข้อการติดต่อ</label>
                 <div class="col-md-9">

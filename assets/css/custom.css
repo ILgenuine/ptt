@@ -47,7 +47,14 @@
 				padding-left:12px;
 				behavior: url(../../pie/PIE.htc);
 			}
-
+			.text-grey-manubar{
+				color:#666666;
+			}
+			.active-menu{
+				 color: #020091!important;
+				 background-color: transparent;
+				 behavior: url(../../pie/PIE.htc);
+			}
 			.padding-x-4{
 				padding-right:24px;
 				padding-left:24px;
@@ -60,7 +67,7 @@
 			}
 
 			.text-grey{
-				color:#666666 !important;
+				color:#666666!important;
 			}
 
 			.sidebar-menu .active{
