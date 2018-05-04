@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 24/04/2018 04:51
+    Creation date: 04/05/2018 03:41
     */
 
     @font-face {
@@ -36,38 +36,44 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-office:before { content: "\f100"; }
-.flaticon-copy-content:before { content: "\f101"; }
-.flaticon-keys:before { content: "\f102"; }
-.flaticon-user-1:before { content: "\f103"; }
-.flaticon-cancel:before { content: "\f104"; }
-.flaticon-technology-1:before { content: "\f105"; }
-.flaticon-telephone:before { content: "\f106"; }
-.flaticon-create-new-pencil-button:before { content: "\f107"; }
-.flaticon-download-button:before { content: "\f108"; }
-.flaticon-printing-tool:before { content: "\f109"; }
-.flaticon-minus-sign-inside-a-black-circle:before { content: "\f10a"; }
-.flaticon-plus-sign-in-a-black-circle:before { content: "\f10b"; }
-.flaticon-plus-symbol-in-a-rounded-black-square:before { content: "\f10c"; }
-.flaticon-user:before { content: "\f10d"; }
-.flaticon-technology:before { content: "\f10e"; }
-.flaticon-shopping-cart:before { content: "\f10f"; }
-.flaticon-letter:before { content: "\f110"; }
+    .flaticon-facebook-letter-logo:before { content: "\f100"; }
+.flaticon-twitter-logo-silhouette:before { content: "\f101"; }
+.flaticon-social-media:before { content: "\f102"; }
+.flaticon-office:before { content: "\f103"; }
+.flaticon-copy-content:before { content: "\f104"; }
+.flaticon-keys:before { content: "\f105"; }
+.flaticon-user-1:before { content: "\f106"; }
+.flaticon-cancel:before { content: "\f107"; }
+.flaticon-technology-1:before { content: "\f108"; }
+.flaticon-telephone:before { content: "\f109"; }
+.flaticon-create-new-pencil-button:before { content: "\f10a"; }
+.flaticon-download-button:before { content: "\f10b"; }
+.flaticon-printing-tool:before { content: "\f10c"; }
+.flaticon-minus-sign-inside-a-black-circle:before { content: "\f10d"; }
+.flaticon-plus-sign-in-a-black-circle:before { content: "\f10e"; }
+.flaticon-plus-symbol-in-a-rounded-black-square:before { content: "\f10f"; }
+.flaticon-user:before { content: "\f110"; }
+.flaticon-technology:before { content: "\f111"; }
+.flaticon-shopping-cart:before { content: "\f112"; }
+.flaticon-letter:before { content: "\f113"; }
     
-    $font-Flaticon-office: "\f100";
-    $font-Flaticon-copy-content: "\f101";
-    $font-Flaticon-keys: "\f102";
-    $font-Flaticon-user-1: "\f103";
-    $font-Flaticon-cancel: "\f104";
-    $font-Flaticon-technology-1: "\f105";
-    $font-Flaticon-telephone: "\f106";
-    $font-Flaticon-create-new-pencil-button: "\f107";
-    $font-Flaticon-download-button: "\f108";
-    $font-Flaticon-printing-tool: "\f109";
-    $font-Flaticon-minus-sign-inside-a-black-circle: "\f10a";
-    $font-Flaticon-plus-sign-in-a-black-circle: "\f10b";
-    $font-Flaticon-plus-symbol-in-a-rounded-black-square: "\f10c";
-    $font-Flaticon-user: "\f10d";
-    $font-Flaticon-technology: "\f10e";
-    $font-Flaticon-shopping-cart: "\f10f";
-    $font-Flaticon-letter: "\f110";
+    $font-Flaticon-facebook-letter-logo: "\f100";
+    $font-Flaticon-twitter-logo-silhouette: "\f101";
+    $font-Flaticon-social-media: "\f102";
+    $font-Flaticon-office: "\f103";
+    $font-Flaticon-copy-content: "\f104";
+    $font-Flaticon-keys: "\f105";
+    $font-Flaticon-user-1: "\f106";
+    $font-Flaticon-cancel: "\f107";
+    $font-Flaticon-technology-1: "\f108";
+    $font-Flaticon-telephone: "\f109";
+    $font-Flaticon-create-new-pencil-button: "\f10a";
+    $font-Flaticon-download-button: "\f10b";
+    $font-Flaticon-printing-tool: "\f10c";
+    $font-Flaticon-minus-sign-inside-a-black-circle: "\f10d";
+    $font-Flaticon-plus-sign-in-a-black-circle: "\f10e";
+    $font-Flaticon-plus-symbol-in-a-rounded-black-square: "\f10f";
+    $font-Flaticon-user: "\f110";
+    $font-Flaticon-technology: "\f111";
+    $font-Flaticon-shopping-cart: "\f112";
+    $font-Flaticon-letter: "\f113";

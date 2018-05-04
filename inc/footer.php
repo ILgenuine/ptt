@@ -19,9 +19,9 @@
              </div>
              <div class="col-xs-2">
                  <ul class="nav navbar-nav pull-right mr-4">
-                     <li><a class="text-white" href="#"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></a></li>
-                     <li><a class="text-white" href="#"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></a></li>
-                     <li><a class="text-white" href="#"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></a></li>
+                     <li><a class="text-white pt-2-5" href="#"><span class="flaticon-facebook-letter-logo p-0"></span></a></li>
+                     <li><a class="text-white pt-2-5" href="#"><span class="flaticon-social-media p-0"></span></a></li>
+                     <li><a class="text-white pt-2-5" href="#"><span class="flaticon-twitter-logo-silhouette p-0"></span></a></li>
                  </ul>
              </div>
       </div>
